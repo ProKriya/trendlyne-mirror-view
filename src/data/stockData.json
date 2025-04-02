@@ -1,0 +1,110 @@
+
+{
+  "companyInfo": {
+    "name": "IndusInd Bank Ltd",
+    "ticker": "INDUSINDBK",
+    "sector": "Banks - Private Sector",
+    "industry": "Finance",
+    "listing": "NSE, BSE",
+    "isin": "INE095A01012",
+    "description": "IndusInd Bank Limited is an Indian financial services company that offers commercial, transactional and electronic banking products and services. The bank was founded in 1994, and it has developed a national presence."
+  },
+  "stockPrice": {
+    "current": 1446.8,
+    "change": 22.10,
+    "percentChange": 1.55,
+    "dayRange": {
+      "low": 1422.35,
+      "high": 1455.00
+    },
+    "weekRange": {
+      "low": 1040.85,
+      "high": 1694.35
+    },
+    "volume": 2352158,
+    "marketCap": 112683.78,
+    "date": "09-May-2024",
+    "time": "15:30:00"
+  },
+  "keyRatios": {
+    "pe": 11.92,
+    "pbv": 1.85,
+    "roe": 16.29,
+    "eps": 121.39,
+    "dividend": {
+      "yield": 0.83,
+      "payout": 15.00
+    },
+    "debtToEquity": 0.07
+  },
+  "financials": {
+    "quarterly": {
+      "periods": ["Q4 FY24", "Q3 FY24", "Q2 FY24", "Q1 FY24"],
+      "revenue": [12765.65, 12650.65, 12011.19, 11780.43],
+      "netProfit": [2334.89, 2001.78, 1915.13, 1964.54],
+      "netInterestIncome": [5376.36, 5296.93, 5074.99, 4929.44]
+    },
+    "annual": {
+      "periods": ["FY24", "FY23", "FY22", "FY21"],
+      "revenue": [49208.00, 41251.00, 38121.00, 35942.00],
+      "netProfit": [8216.34, 6219.77, 4611.52, 3005.03],
+      "netInterestIncome": [20677.72, 18804.59, 15341.10, 13529.95]
+    }
+  },
+  "stockSignals": {
+    "technical": [
+      {"name": "RSI", "value": 47.3, "signal": "Neutral"},
+      {"name": "MACD", "value": "-10.15", "signal": "Sell"},
+      {"name": "Moving Averages", "value": "Above 50-day", "signal": "Buy"}
+    ],
+    "fundamentalRating": "Strong",
+    "valueRating": "Fair Value",
+    "momentumSignal": "Positive",
+    "analystRecommendations": {
+      "buy": 29,
+      "hold": 13,
+      "sell": 0,
+      "targetPrice": 1660.25
+    },
+    "upside": 14.75,
+    "riskRating": "Moderate"
+  },
+  "chartData": {
+    "daily": [
+      {"date": "2024-05-01", "price": 1385.65},
+      {"date": "2024-05-02", "price": 1402.30},
+      {"date": "2024-05-03", "price": 1410.75},
+      {"date": "2024-05-06", "price": 1399.20},
+      {"date": "2024-05-07", "price": 1425.50},
+      {"date": "2024-05-08", "price": 1418.35},
+      {"date": "2024-05-09", "price": 1446.80}
+    ],
+    "moving_averages": {
+      "50day": 1405.76,
+      "200day": 1356.22
+    }
+  },
+  "peers": [
+    {"name": "HDFC Bank", "ticker": "HDFCBANK", "price": 1540.25, "change": 0.55},
+    {"name": "ICICI Bank", "ticker": "ICICIBANK", "price": 1071.45, "change": 1.22},
+    {"name": "Axis Bank", "ticker": "AXISBANK", "price": 1095.60, "change": -0.35},
+    {"name": "Kotak Mahindra", "ticker": "KOTAKBANK", "price": 1782.30, "change": 0.78}
+  ],
+  "recentNews": [
+    {
+      "date": "2024-05-07",
+      "title": "IndusInd Bank reports 15% jump in Q4 net profit",
+      "source": "Economic Times"
+    },
+    {
+      "date": "2024-05-05",
+      "title": "IndusInd Bank launches new credit card with enhanced rewards",
+      "source": "Business Standard"
+    },
+    {
+      "date": "2024-05-02",
+      "title": "IndusInd Bank eyes 18-20% growth in retail loans in FY25",
+      "source": "Mint"
+    }
+  ]
+}
